@@ -485,7 +485,7 @@ project/
 ├── app.py
 ├── student_outcome_dashboard.py
 ├── dataset.csv
-├── student_outcome_corrected.ipynb
+├── student.ipynb
 │
 ├── models/
 │   ├── student_outcome_pipeline.joblib
@@ -589,7 +589,7 @@ jupyter notebook
 Open the project notebook:
 
 ```text
-student_outcome_corrected.ipynb
+student.ipynb
 ```
 
 The notebook contains the complete workflow:
